@@ -17,4 +17,7 @@ If you use this dataset in your research, please cite:
 > Yu, C., Cui, X., & You, H. (2025). An analysis of head and ear anthropometric data using 3D scans for head-wearable products. *Ergonomics*.
 
 ## License
-This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+See the full license in [`LICENSE_CC_BY_4.0.txt`](./LICENSE_CC_BY_4.0.txt) or at [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0).
+
+> Note: The `LICENSE` file is set to **CC0 1.0** to satisfy GitHub’s license detection system. The actual license is **CC BY 4.0**.
