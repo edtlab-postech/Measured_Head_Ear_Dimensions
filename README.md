@@ -1,9 +1,9 @@
-# Measured_Head_Ear_Dimensions
+# Head_Ear_Measurements
 
 This repository contains anthropometric data of integrated head and ear measurements collected from 3D scans of 200 Korean adults. The dataset includes 88 dimensions relevant to the ergonomic design of head-wearable products such as headphones, VR/AR devices, and helmets.
 
 ## Contents
-- `Measured_Head_Ear_Dimensions.xlsx`: Main dataset
+- `Head_Ear_Measurements.xlsx`: Main dataset
 - `LICENSE_CC_BY_4.0.txt`: License file (Creative Commons Attribution 4.0)
 - `README.md`: This file
 
