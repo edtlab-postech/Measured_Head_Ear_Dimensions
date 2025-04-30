@@ -14,7 +14,7 @@ This repository contains anthropometric data of integrated head and ear measurem
 ## Citation
 If you use this dataset in your research, please cite:
 
-> Yu, C., Cui, X., & You, H. (2025). An Analysis of Head and Ear Anthropometric Data Using 3D Scans for Head-Wearable Products. *Ergonomics*.
+> Yu, C., Cui, X., & You, H. (2025). An analysis of head and ear anthropometric data using 3D scans for head-wearable products. *Ergonomics*.
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
